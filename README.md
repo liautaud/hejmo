@@ -16,4 +16,5 @@ Moreover, we would also expand house sharing to experience sharing. The host wil
 
 ## Technologies:
 
-Python and Javascript (Vue.js).
+- Python, Javascript (Vue.js, React, React Native), OCaml.
+- ESP32, Raspberry Pi
